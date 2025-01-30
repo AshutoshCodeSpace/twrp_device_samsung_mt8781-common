@@ -1,0 +1,5 @@
+ro.product.board=icesgta9
+ro.board.platform=mt6789
+sys.usb.controller=musb-hdrc
+ro.boot.dynamic_partitions=true
+ro.boot.boot_devices=bootdevice,soc/11270000.ufshci,11270000.ufshci
